@@ -33,7 +33,7 @@
 <p>You can install the required dependencies with a sprinkle of magic using the following command:</p>
 
 ```bash
-🔮 pip install selenium pytube webdriver_manager
+pip install selenium pytube webdriver_manager
 ```
 <h2 id="usage">🚀 Usage</h2>
 <ol>
