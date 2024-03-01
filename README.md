@@ -1,7 +1,7 @@
 <!-- YouTube Playlist to MP3 Downloader README -->
 
 <p align="center">
-  <img src="https://your-image-url.com/your-logo.png" alt="Project Logo" width="200">
+  <img src="[https://your-image-url.com/your-logo.png](https://th.bing.com/th/id/R.6679777ee798566d3852fe589dea1517?rik=BWhHWXsPUKJyMw&riu=http%3a%2f%2fthatneedle.com%2fimg%2fpython_logo.png&ehk=TwwpkmVpS403ycLKQsENchYCUo1I6FM6HgwEKHvJI%2fU%3d&risl=&pid=ImgRaw&r=0)" alt="Project Logo" width="200">
 </p>
 
 <h1 align="center">YouTube Playlist to MP3 Downloader</h1>
