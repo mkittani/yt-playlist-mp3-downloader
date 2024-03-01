@@ -28,7 +28,7 @@
   <li>Selenium</li>
   <li>Pytube</li>
   <li>Webdriver Manager</li>
-  <li>Appropriate Chrome driver to your operating system</li>
+  <li>⚠️Appropriate Chrome driver to your operating system⚠️</li>
 </ul>
 
 <p>You can install the required dependencies with a sprinkle of magic using the following command:</p>
