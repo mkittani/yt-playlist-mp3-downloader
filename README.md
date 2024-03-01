@@ -61,7 +61,7 @@ python youtube_playlist_downloader.py
   <li>🌟 Follow the on-screen instructions and provide the YouTube playlist link when prompted.</li>
 </ol>
 <h2 id="configuration">⚙ Configuration</h2>
-<p>The script wields the power of WebDriver Manager to summon the perfect web driver for your browser. Ensure you have a compatible BROWSER DRIVER installed on your operating system by pasting the link infront of the suitable driver displayed in the following link:</p>
+<p>The script wields the power of WebDriver Manager to summon the perfect web driver for your browser. Ensure you have a compatible BROWSER DRIVER installed on your operating system by pasting the link placed infront of the suitable driver you choose from the following link:</p>
 
 ```
 https://googlechromelabs.github.io/chrome-for-testing/#stable
