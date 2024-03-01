@@ -28,7 +28,6 @@
   <li>Selenium</li>
   <li>Pytube</li>
   <li>Webdriver Manager</li>
-  <li>⚠️Appropriate Chrome driver to your operating system⚠️</li>
 </ul>
 
 <p>You can install the required dependencies with a sprinkle of magic using the following command:</p>
@@ -62,7 +61,7 @@ python youtube_playlist_downloader.py
   <li>🌟 Follow the on-screen instructions and provide the YouTube playlist link when prompted.</li>
 </ol>
 <h2 id="configuration">⚙ Configuration</h2>
-<p>The script wields the power of WebDriver Manager to summon the perfect web driver for your browser. Ensure you have a compatible browser installed in your realm.</p>
+<p>The script wields the power of WebDriver Manager to summon the perfect web driver for your browser. Ensure you have a compatible browser driver installed in your operating system.</p>
 <h2 id="disclaimer">⚠ Disclaimer</h2>
 <p>By using this script, you agree to embark on a responsible journey and adhere to YouTube's terms of service. Download content ethically and only for materials you have the right to access.</p>
 <h2 id="contributing">🤝 Contributing</h2>
