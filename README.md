@@ -72,3 +72,5 @@ https://googlechromelabs.github.io/chrome-for-testing/#stable
 <p>Contributions are like magical ingredients! If you discover any enchanting issues or have spells for improvements, feel free to open a mystical issue or cast a pull request spell.</p>
 <h2 id="license">📜 License</h2>
 <p>This project is enchanted under the <a href="LICENSE">MIT License</a>. 🧙‍♂️✨</p>
+
+<img src="https://t.bkit.co/w_65e3318304adc.gif" />
