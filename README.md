@@ -41,14 +41,14 @@ pip install selenium pytube webdriver_manager
 </ol>
 
 ```bash
-git clone https://github.com/mkittani/python-selenium.git
+git clone https://github.com/mkittani/yt-playlist-mp3-downloader.git
 ```
 <ol start="2">
   <li>🧙‍♂️ Enter the mystical project directory:</li>
 </ol>
 
 ```
-cd python-selenium
+cd yt-playlist-mp3-downloader
 ```
 <ol start="3">
   <li>🔮 Cast the spell to run the script:</li>
